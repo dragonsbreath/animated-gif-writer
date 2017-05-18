@@ -8,7 +8,7 @@ import java.io.FileOutputStream;
 import java.io.OutputStream;
 import java.util.regex.Pattern;
 
-public class MainClass {
+public class AnimatedWriter {
 
 	public static void main(String[] args) throws Exception {
 		// args[0] directory for images
