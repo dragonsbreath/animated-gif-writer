@@ -17,7 +17,7 @@
  * WY    28Oct2015  Initial creation
  */
 
-package com.github.dragon66;
+package com.github.dragonsbreath;
 
 import java.awt.Dimension;
 import java.awt.image.BufferedImage;

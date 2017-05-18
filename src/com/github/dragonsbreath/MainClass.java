@@ -1,4 +1,4 @@
-package com.github.dragon66;
+package com.github.dragonsbreath;
 
 import java.awt.image.BufferedImage;
 import java.io.File;
@@ -8,7 +8,7 @@ import java.io.FileOutputStream;
 import java.io.OutputStream;
 import java.util.regex.Pattern;
 
-public class TestAnimatedGIFWriter {
+public class MainClass {
 
 	public static void main(String[] args) throws Exception {
 		// args[0] directory for images
